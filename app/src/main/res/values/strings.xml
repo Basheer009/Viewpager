@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Viewpager</string>
+    <string name="constraintlayoutnestedbanner">ConstraintLayoutNestedBanner</string>
+    <string name="realize_the_hotspot_effect_of_no1_store">Realize The Hotspot Effect Of No1 Store</string>
+    <string name="image">Image</string>
+    <string name="image_title_indicator">+ title indicator</string>
+    <string name="picture_title_number">+ title no</string>
+</resources>
